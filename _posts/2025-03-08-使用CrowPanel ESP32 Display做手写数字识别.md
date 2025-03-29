@@ -34,7 +34,7 @@ tags:
 # 软件说明
 
 软件框图如下
-![框图](../img/post_img/ESP32S3-CROW/框图.png)
+![框图](/img/post_img/ESP32S3-CROW/框图.png)
 
 ## LVGL模拟器实践
 
@@ -128,11 +128,11 @@ static void LEDPanel_Task(void* parameter)
 
 ## 效果展示
 
-![数字1](../img/post_img/ESP32S3-CROW/1.jpg)
-![数字2](../img/post_img/ESP32S3-CROW/2.jpg)
-![数字3](../img/post_img/ESP32S3-CROW/3.jpg)
-![数字4](../img/post_img/ESP32S3-CROW/4.jpg)
-![数字7](../img/post_img/ESP32S3-CROW/7.jpg)
+![数字1](/img/post_img/ESP32S3-CROW/1.jpg)
+![数字2](/img/post_img/ESP32S3-CROW/2.jpg)
+![数字3](/img/post_img/ESP32S3-CROW/3.jpg)
+![数字4](/img/post_img/ESP32S3-CROW/4.jpg)
+![数字7](/img/post_img/ESP32S3-CROW/7.jpg)
 完整识别见视频
 
 ## 遇到的问题
